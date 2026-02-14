@@ -29,6 +29,14 @@
         "videos",
         "audios"
       ]
+    },
+    "Category": {
+      "type": "enumeration",
+      "enum": [
+        "Rooftop,",
+        "Fine Dining,",
+        "Sports Bar"
+      ]
     }
   }
 }
